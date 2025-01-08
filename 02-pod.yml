@@ -4,6 +4,7 @@ metadata:
   name: nginx
 spec:
   containers:
+  #this is equals to 
   - name: nginx
     image: nginx
     #ports:
