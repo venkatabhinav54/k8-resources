@@ -37,4 +37,8 @@ spec:
   - name: nginx-svc-port
     protocol: TCP
     port: 8080 # service port
-    targetPort: 80 # container port
+    targetPort: 8080 # container port
+
+
+    this is a not a partial claim this is a pre and post claims 
+    wipro@vidalhealth.com
